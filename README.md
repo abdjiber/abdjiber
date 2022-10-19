@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdoul Jalil
+👋 Hi, I’m Abdoul Jalil
 
 I’m a Postdoctoral Fellow at Simon Fraser University in Canada. My research holds on determining modifiable cognitive decline risk factors for maintaining good cognitive health (Read more about my research [here](https://abdjiber.github.io).
 
